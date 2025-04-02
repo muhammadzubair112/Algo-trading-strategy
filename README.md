@@ -87,16 +87,6 @@ There are two additional new versions of the algorithm under development:
 * Plot labels for every time each strategy satisfies to open a long/short position
 * Spot potential local Tops (T) and Bottoms (B) based on a combination of RSI, Stoch RSI, MACD, volume, and the weighted-strategy.
 
-## Examples
-
-* H4 BTC/USDT Binance (default) - 01/01/2021 - 19/02/2022
-<p align="left">
-    <img src="https://github.com/AlbertoCuadra/algo_trading/blob/main/Examples/example_BTC_USDT_Binance_4H.svg" width="1400">
-</p>
-<p align="left">
-    <img src="https://github.com/AlbertoCuadra/algo_trading/blob/main/Examples/example_BTC_USDT_Binance_4H_results.svg" width="1400">
-</p>
-
 ## How to use it
 Search for `Acrypto - Weighted strategy` in the indicator tab using `TradingView` and add it to your layout. Modify the indicator parameters for the desired asset and data frame.
 
@@ -108,14 +98,6 @@ If you consider paying for a subscription on TradingView (which is not required 
 
 ## Acknowledgements
 The monthly table performance was developed by @QuantNomad. I have only changed some colors and also adapted the calculations to the last previous candle. The purpose of this change is to make this script compatible with this weighted strategy. Thanks again to @QuantNomad for this amazing script!
-
-## Questions?
-For discussions, questions, or just to share some settings, please leave a comment here in the [discussion channel](https://github.com/AlbertoCuadra/algo_trading_weighted_strategy/discussions).
-
-
-## Developer
-
-* **[Alberto Cuadra-Lara](https://acuadralara.com/)** 
 
 
 Support this project by giving me an extra dose of caffeine :coffee: 
